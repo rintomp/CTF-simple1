@@ -1,0 +1,182 @@
+Tue Feb 28 12:43:46 2023: Starting Cisco Packet Tracer 8.0.0.0212
+Tue Feb 28 12:43:46 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+Tue Feb 28 12:43:46 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+Tue Feb 28 12:43:48 2023: Script Module starting: 
+Tue Feb 28 12:43:48 2023: CPtmpServer started at port 39000
+Tue Feb 28 12:43:48 2023: Script Module starting: net.netacad.cisco.ActivitySequenceEditor
+Tue Feb 28 12:43:49 2023: Script Module starting: net.netacad.cisco.ActivitySequencer
+Tue Feb 28 12:43:49 2023: Script Module starting: net.netacad.cisco.clearTerminalAgent
+Tue Feb 28 12:43:49 2023: Script Module starting: net.netacad.cisco.Marvel
+Tue Feb 28 12:43:49 2023: Script Module starting: net.netacad.cisco.PcSoftware
+Tue Feb 28 12:43:49 2023: Script Module starting: net.netacad.cisco.PTINTERNAL
+Tue Feb 28 12:43:49 2023: Script Module starting: net.netacad.cisco.resource
+Tue Feb 28 12:43:49 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+Tue Feb 28 12:43:49 2023: CPtmpServer started at port 38000
+Tue Feb 28 12:44:01 2023: Changed device name:  to Router0
+Tue Feb 28 12:44:01 2023: Changed device name:  to Power Distribution Device0
+Tue Feb 28 12:44:01 2023: Created device: Power Distribution Device0 model: Power Distribution Device
+Tue Feb 28 12:44:01 2023: Created device: Router0 model: ISR4331
+Tue Feb 28 12:44:02 2023: Changed device name:  to Router1
+Tue Feb 28 12:44:02 2023: Created device: Router1 model: ISR4331
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cOpenHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cClosedHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cConnect.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cTargetX.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddDevice.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cInspect.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddPacket.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cResize.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cPencil.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:06 2023: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cDrawingcross.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+Tue Feb 28 12:44:07 2023: Link created: Router0 GigabitEthernet0/0/0 to Router1 GigabitEthernet0/0/0, 8101
+Tue Feb 28 12:44:10 2023: Link deleted: Router0 GigabitEthernet0/0/0 to Router1 GigabitEthernet0/0/0, 8101
+Tue Feb 28 12:44:17 2023: Changed device name:  to Router2
+Tue Feb 28 12:44:17 2023: Created device: Router2 model: ISR4331
+Tue Feb 28 12:45:14 2023: Link created: Router0 Serial0/1/0 to Router1 Serial0/1/0, 8106
+Tue Feb 28 12:45:19 2023: Link created: Router0 Serial0/1/1 to Router2 Serial0/1/0, 8106
+Tue Feb 28 12:45:29 2023: Changed device name:  to Switch0
+Tue Feb 28 12:45:29 2023: Created device: Switch0 model: 2960-24TT
+Tue Feb 28 12:45:33 2023: Changed device name:  to Switch1
+Tue Feb 28 12:45:33 2023: Created device: Switch1 model: 2960-24TT
+Tue Feb 28 12:45:39 2023: Changed device name: Switch1 to Switch2
+Tue Feb 28 12:45:45 2023: Changed device name: Switch0 to Switch1
+Tue Feb 28 12:45:48 2023: Changed device name:  to PC0
+Tue Feb 28 12:45:48 2023: Created device: PC0 model: PC-PT
+Tue Feb 28 12:45:52 2023: Changed device name: PC0 to PC1
+Tue Feb 28 12:45:55 2023: Changed device name:  to PC2
+Tue Feb 28 12:45:55 2023: Created device: PC2 model: PC-PT
+Tue Feb 28 12:45:57 2023: Changed device name:  to PC3
+Tue Feb 28 12:45:57 2023: Created device: PC3 model: PC-PT
+Tue Feb 28 12:45:59 2023: Changed device name:  to PC4
+Tue Feb 28 12:45:59 2023: Created device: PC4 model: PC-PT
+Tue Feb 28 12:46:12 2023: Link created: Router1 GigabitEthernet0/0/0 to Switch1 GigabitEthernet0/1, 8100
+Tue Feb 28 12:46:18 2023: Link created: Router2 GigabitEthernet0/0/0 to Switch2 GigabitEthernet0/1, 8100
+Tue Feb 28 12:46:25 2023: Link created: Switch1 FastEthernet0/1 to PC1 FastEthernet0, 8100
+Tue Feb 28 12:46:29 2023: Link created: Switch1 FastEthernet0/2 to PC2 FastEthernet0, 8100
+Tue Feb 28 12:46:34 2023: Link created: Switch2 FastEthernet0/1 to PC3 FastEthernet0, 8100
+Tue Feb 28 12:46:38 2023: Link created: Switch2 FastEthernet0/2 to PC4 FastEthernet0, 8100
+Tue Feb 28 12:46:51 2023: Router0: Router> enable
+Tue Feb 28 12:46:51 2023: Router0: Router# configure terminal
+Tue Feb 28 12:46:51 2023: Router0: Router(config)# interface Serial0/1/0
+Tue Feb 28 12:46:53 2023: Router0: Router(config-if)# no shutdown
+Tue Feb 28 12:46:59 2023: Router0: Router(config-if)# ip address 192.168.10.1 255.255.255.0
+Tue Feb 28 12:47:13 2023: Router0: Router(config-if)# ip address 192.168.10.1 255.255.255.0
+Tue Feb 28 12:47:13 2023: Router0: Router(config-if)# exit
+Tue Feb 28 12:47:13 2023: Router0: Router(config)# interface Serial0/1/1
+Tue Feb 28 12:47:14 2023: Router0: Router(config-if)# no shutdown
+Tue Feb 28 12:47:19 2023: Router0: Router(config-if)# ip address 192.168.20.1 255.255.255.0
+Tue Feb 28 12:47:19 2023: Router0: Router(config-if)# ip address 192.168.20.1 255.255.255.0
+Tue Feb 28 12:47:21 2023: Router0: Router(config-if)# ip address 192.168.20.1 255.255.255.0
+Tue Feb 28 12:50:03 2023: Router1: Router> enable
+Tue Feb 28 12:50:03 2023: Router1: Router# configure terminal
+Tue Feb 28 12:50:03 2023: Router1: Router(config)# interface Serial0/1/0
+Tue Feb 28 12:50:05 2023: Router1: Router(config-if)# no shutdown
+Tue Feb 28 12:50:10 2023: Router1: Router(config-if)# ip address 192.168.10.2 255.255.255.0
+Tue Feb 28 12:50:28 2023: Router1: Router(config-if)# ip address 192.168.10.2 255.255.255.0
+Tue Feb 28 12:50:29 2023: Router1: Router(config-if)# exit
+Tue Feb 28 12:50:29 2023: Router1: Router(config)# interface GigabitEthernet0/0/0
+Tue Feb 28 12:50:30 2023: Router1: Router(config-if)# no shutdown
+Tue Feb 28 12:50:46 2023: Router1: Router(config-if)# ip address 192.168.50.1 255.255.255.0
+Tue Feb 28 12:50:53 2023: Router1: Router(config-if)# ip address 192.168.50.1 255.255.255.0
+Tue Feb 28 12:51:15 2023: Router2: Router> enable
+Tue Feb 28 12:51:15 2023: Router2: Router# configure terminal
+Tue Feb 28 12:51:15 2023: Router2: Router(config)# interface Serial0/1/0
+Tue Feb 28 12:51:16 2023: Router2: Router(config-if)# no shutdown
+Tue Feb 28 12:51:31 2023: Router2: Router(config-if)# ip address 192.168.20.2 255.255.255.0
+Tue Feb 28 12:51:33 2023: Router2: Router(config-if)# ip address 192.168.20.1 255.255.255.0
+Tue Feb 28 12:51:35 2023: Router2: Router(config-if)# ip address 192.168.20.2 255.255.255.0
+Tue Feb 28 12:51:40 2023: Router2: Router(config-if)# ip address 192.168.20.2 255.255.255.0
+Tue Feb 28 12:52:03 2023: Router2: Router(config-if)# exit
+Tue Feb 28 12:52:03 2023: Router2: Router(config)# interface GigabitEthernet0/0/0
+Tue Feb 28 12:52:04 2023: Router2: Router(config-if)# no shutdown
+Tue Feb 28 12:52:13 2023: Router2: Router(config-if)# ip address 192.168.60.1 255.255.255.0
+Tue Feb 28 12:52:18 2023: Router2: Router(config-if)# ip address 192.168.60.1 255.255.255.0
+Tue Feb 28 12:52:26 2023: Router1: Router(config-if)# exit
+Tue Feb 28 12:52:26 2023: Router1: Router(config)# interface GigabitEthernet0/0/0
+Tue Feb 28 13:01:17 2023: Router0: Router> en
+Tue Feb 28 13:01:20 2023: Router0: Router# config ter
+Tue Feb 28 13:01:49 2023: Router0: Router(config)# ip route 192.168.50.0 255.255.255.0 se0/1/0
+Tue Feb 28 13:03:03 2023: Router0: Router(config)# ip route 192.168.60.0 255.255.255.0 se0/1/1
+Tue Feb 28 13:03:37 2023: Router2: Router> enable
+Tue Feb 28 13:03:37 2023: Router2: Router# configure terminal
+Tue Feb 28 13:03:37 2023: Router2: Router(config)# interface GigabitEthernet0/0/0
+Tue Feb 28 13:04:11 2023: Router0: Router(config)# ip route 192.168.10.0 255.255.255.0 se0/1/0
+Tue Feb 28 13:04:43 2023: Router0: Router(config)# ip route 192.168.20.0 255.255.255.0 se0/1/1
+Tue Feb 28 13:05:29 2023: Router1: Router> enable
+Tue Feb 28 13:05:29 2023: Router1: Router# configure terminal
+Tue Feb 28 13:05:29 2023: Router1: Router(config)# interface Serial0/1/0
+Tue Feb 28 13:06:25 2023: Router1: Router(config-if)# ip route 192.168.60.0 255.255.255.0 se0/1/0
+Tue Feb 28 13:06:57 2023: Router2: Router(config-if)# ip route 192.168.50.0 255.255.255.0 se0/1/0
+Tue Feb 28 13:08:01 2023: Changed device name:  to Router3
+Tue Feb 28 13:08:01 2023: Created device: Router3 model: ISR4331
+Tue Feb 28 13:08:05 2023: Changed device name:  to Router4
+Tue Feb 28 13:08:05 2023: Created device: Router4 model: ISR4331
+Tue Feb 28 13:08:14 2023: Changed device name:  to Switch3
+Tue Feb 28 13:08:14 2023: Created device: Switch3 model: 2960-24TT
+Tue Feb 28 13:08:17 2023: Changed device name:  to Switch4
+Tue Feb 28 13:08:17 2023: Created device: Switch4 model: 2960-24TT
+Tue Feb 28 13:08:44 2023: Link created: Router0 Serial0/2/0 to Router3 Serial0/1/0, 8106
+Tue Feb 28 13:08:49 2023: Link created: Router0 Serial0/2/1 to Router4 Serial0/1/0, 8106
+Tue Feb 28 13:08:56 2023: Link created: Router3 GigabitEthernet0/0/0 to Switch3 GigabitEthernet0/1, 8100
+Tue Feb 28 13:09:01 2023: Link created: Router4 GigabitEthernet0/0/0 to Switch4 GigabitEthernet0/1, 8100
+Tue Feb 28 13:09:07 2023: Changed device name:  to PC5
+Tue Feb 28 13:09:07 2023: Created device: PC5 model: PC-PT
+Tue Feb 28 13:09:11 2023: Changed device name:  to PC6
+Tue Feb 28 13:09:11 2023: Created device: PC6 model: PC-PT
+Tue Feb 28 13:09:17 2023: Changed device name:  to PC7
+Tue Feb 28 13:09:17 2023: Created device: PC7 model: PC-PT
+Tue Feb 28 13:09:23 2023: Changed device name:  to PC8
+Tue Feb 28 13:09:23 2023: Created device: PC8 model: PC-PT
+Tue Feb 28 13:09:29 2023: Link created: Switch3 FastEthernet0/1 to PC5 FastEthernet0, 8100
+Tue Feb 28 13:09:32 2023: Link created: Switch3 FastEthernet0/2 to PC6 FastEthernet0, 8100
+Tue Feb 28 13:09:37 2023: Link created: Switch4 FastEthernet0/1 to PC7 FastEthernet0, 8100
+Tue Feb 28 13:09:44 2023: Link created: Switch4 FastEthernet0/2 to PC8 FastEthernet0, 8100
+Tue Feb 28 13:09:52 2023: Router4: Router> enable
+Tue Feb 28 13:09:52 2023: Router4: Router# configure terminal
+Tue Feb 28 13:09:52 2023: Router4: Router(config)# interface Serial0/1/0
+Tue Feb 28 13:09:53 2023: Router4: Router(config-if)# no shutdown
+Tue Feb 28 13:09:55 2023: Router4: Router(config-if)# exit
+Tue Feb 28 13:09:55 2023: Router4: Router(config)# interface Serial0/1/1
+Tue Feb 28 13:09:56 2023: Router4: Router(config-if)# no shutdown
+Tue Feb 28 13:09:57 2023: Router4: Router(config-if)# exit
+Tue Feb 28 13:09:57 2023: Router4: Router(config)# interface GigabitEthernet0/0/1
+Tue Feb 28 13:09:58 2023: Router4: Router(config-if)# exit
+Tue Feb 28 13:09:58 2023: Router4: Router(config)# interface GigabitEthernet0/0/0
+Tue Feb 28 13:10:01 2023: Router4: Router(config-if)# no shutdown
+Tue Feb 28 13:10:02 2023: Router4: Router(config-if)# exit
+Tue Feb 28 13:10:02 2023: Router4: Router(config)# interface GigabitEthernet0/0/1
+Tue Feb 28 13:10:02 2023: Router4: Router(config-if)# no shutdown
+Tue Feb 28 13:10:04 2023: Router4: Router(config-if)# exit
+Tue Feb 28 13:10:04 2023: Router4: Router(config)# interface GigabitEthernet0/0/2
+Tue Feb 28 13:10:05 2023: Router4: Router(config-if)# no shutdown
+Tue Feb 28 13:10:10 2023: Router0: Router(config)# interface Serial0/1/1
+Tue Feb 28 13:10:11 2023: Router0: Router(config-if)# exit
+Tue Feb 28 13:10:11 2023: Router0: Router(config)# interface Serial0/1/0
+Tue Feb 28 13:10:12 2023: Router0: Router(config-if)# exit
+Tue Feb 28 13:10:12 2023: Router0: Router(config)# interface Serial0/1/1
+Tue Feb 28 13:10:12 2023: Router0: Router(config-if)# exit
+Tue Feb 28 13:10:12 2023: Router0: Router(config)# interface Serial0/2/0
+Tue Feb 28 13:10:13 2023: Router0: Router(config-if)# no shutdown
+Tue Feb 28 13:10:14 2023: Router0: Router(config-if)# exit
+Tue Feb 28 13:10:14 2023: Router0: Router(config)# interface Serial0/2/1
+Tue Feb 28 13:10:15 2023: Router0: Router(config-if)# no shutdown
+Tue Feb 28 13:10:29 2023: Router3: Router> enable
+Tue Feb 28 13:10:29 2023: Router3: Router# configure terminal
+Tue Feb 28 13:10:29 2023: Router3: Router(config)# interface GigabitEthernet0/0/0
+Tue Feb 28 13:10:30 2023: Router3: Router(config-if)# no shutdown
+Tue Feb 28 13:10:31 2023: Router3: Router(config-if)# exit
+Tue Feb 28 13:10:31 2023: Router3: Router(config)# interface GigabitEthernet0/0/1
+Tue Feb 28 13:10:32 2023: Router3: Router(config-if)# no shutdown
+Tue Feb 28 13:10:33 2023: Router3: Router(config-if)# exit
+Tue Feb 28 13:10:33 2023: Router3: Router(config)# interface GigabitEthernet0/0/2
+Tue Feb 28 13:10:34 2023: Router3: Router(config-if)# no shutdown
+Tue Feb 28 13:10:35 2023: Router3: Router(config-if)# exit
+Tue Feb 28 13:10:35 2023: Router3: Router(config)# interface Serial0/1/0
+Tue Feb 28 13:10:35 2023: Router3: Router(config-if)# no shutdown
+Tue Feb 28 13:10:36 2023: Router3: Router(config-if)# exit
+Tue Feb 28 13:10:36 2023: Router3: Router(config)# interface Serial0/1/1
+Tue Feb 28 13:10:37 2023: Router3: Router(config-if)# no shutdown
+Tue Feb 28 13:12:39 2023: Saving options...
+Tue Feb 28 13:12:39 2023: Options saved.
+Tue Feb 28 13:14:08 2023: Saving options...
+Tue Feb 28 13:14:08 2023: Options saved.
